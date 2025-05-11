@@ -16,7 +16,7 @@
   <a href="https://linkedin.com/in/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/yourusername" target="_blank">
+  <a href="[https://x.com/yourusername](https://x.com/rinslet5)" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
   </a>
   <a href="https://yourwebsite.com" target="_blank">
